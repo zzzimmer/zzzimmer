@@ -3,7 +3,7 @@
 <div style="display: inline_block"><br>
   <strong>Linguagens de Programação</strong><br><br>
   <img align="center" alt="Lucas-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Lucas-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
+<!--   <img align="center" alt="Lucas-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"> -->
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
 </div>
@@ -17,7 +17,7 @@
   <img align="center" alt="Lucas-PostGres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="Lucas-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Lucas-Oracle-OCI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg">
-  <img align="center" alt="Lucas-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg">
+<!--   <img align="center" alt="Lucas-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"> -->
 </div>
 
 ##
@@ -25,10 +25,10 @@
 <div style="display: inline_block"><br>
   <strong>Conceitos e Padrões</strong><br><br>
   <img src="https://img.shields.io/badge/Pattern-MVC-blue" alt="MVC">
-  <img src="https://img.shields.io/badge/Principle-SOLID-orange" alt="SOLID">
+<!--   <img src="https://img.shields.io/badge/Principle-SOLID-orange" alt="SOLID"> -->
   <img src="https://img.shields.io/badge/Domain-Driven%20Design-green" alt="DDD">
-  <img src="https://img.shields.io/badge/Pattern-Repository-purple" alt="Repository Pattern">
-  <img src="https://img.shields.io/badge/Pattern-Factory-red" alt="Factory Pattern">
+<!--   <img src="https://img.shields.io/badge/Pattern-Repository-purple" alt="Repository Pattern">
+  <img src="https://img.shields.io/badge/Pattern-Factory-red" alt="Factory Pattern"> -->
 </div>
 
 ##
