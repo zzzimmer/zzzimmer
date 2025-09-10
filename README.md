@@ -32,4 +32,3 @@ Técnico em Desenvolvimento de Sistemas (IFSC) e Pedagogo (UDESC). Sou desenvolv
 ## Contato
 [✉️ Gmail](mailto:lucas.zimmr@gmail.com) • [🔗 LinkedIn](https://www.linkedin.com/in/lucas-zimmermann-dev/)
 
-> "Talvez não cheguei aonde planejei ir. Mas cheguei, sem querer, aonde meu coração queria chegar, sem que eu o soubesse." — Rubem Alves
