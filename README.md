@@ -17,12 +17,6 @@ Técnico em Desenvolvimento de Sistemas (IFSC) e Pedagogo (UDESC). Sou desenvolv
 
 ---
 
-## Conceitos e Padrões
-![MVC](https://img.shields.io/badge/Pattern-MVC-blue)
-![DDD](https://img.shields.io/badge/Domain-Driven%20Design-green)
-
----
-
 ## APIs e Documentação
 ![REST](https://img.shields.io/badge/API-REST-ff69b4)
 ![Swagger](https://img.shields.io/badge/Docs-Swagger-brightgreen)
